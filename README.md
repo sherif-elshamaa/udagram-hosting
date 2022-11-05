@@ -1,6 +1,6 @@
 # Hosting a Full-Stack Application
 ```
-Link : [Project link](http://sherif-udagram.s3-website-us-east-1.amazonaws.com)/
+Project link: http://sherif-udagram.s3-website-us-east-1.amazonaws.com)
 
 ```
 
