@@ -1,6 +1,6 @@
 # Hosting a Full-Stack Application
 ```
-Link : [Project link](http://sherif-udagram.s3-website-us-east-1.amazonaws.com)
+Link : [Project link](http://sherif-udagram.s3-website-us-east-1.amazonaws.com)/
 
 ```
 
@@ -8,7 +8,7 @@ Link : [Project link](http://sherif-udagram.s3-website-us-east-1.amazonaws.com)
 
 ## **Using RDS for postgress, S3 for hosting front-end, Elastic Beanstalk for hosting back-end**
 
-# **Creating deploying pipline using CircleCI **
+# **Created deploying pipline using CircleCI**
 
 
 ### Dependencies
