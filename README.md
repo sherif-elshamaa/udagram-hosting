@@ -6,7 +6,7 @@ Project link: http://sherif-udagram.s3-website-us-east-1.amazonaws.com
 
 ### **This project is a full-stack application using angular 8 and node, Goal of this project is to deploy the front-end and back-end using aws services.**
 
-## **Using RDS for postgress, S3 for hosting front-end, Elastic Beanstalk for hosting back-end**
+## **Using RDS for postgress, S3 for hosting front-end, Elastic Beanstalk for hosting API**
 
 # **Created deploying pipline using CircleCI**
 
